@@ -1,0 +1,2 @@
+Birinci gün problemi:
+Işıkları sırayla yakıp söndrümek ışığınbir saniye (delay(1000)) boyunca yandıktan sonra ve bir sonraki ışığın yanması gerekiyor.

@@ -1,0 +1,15 @@
+İkinci Gün Problemleri"
+
+Birinci Problem:
+Işıklar baştan yanıp sonup sonra aynı şekilde sondan yanıp sönmesi gerekiyor.
+ışığın belli bir süre(delay(50) gibi ) yandıktan sonra sönüp bir sonraki ışığın yanmaya başlası gerekir. 
+
+İkinci Problem:
+Işıkların ortadan yanıp sonra ortadan sönmeye başlaması gerekiyor.
+ortadan iki led yaktıktan sonra sağdaki ve soldaki iki ledin bir saniye sonra yanması gerekiyor.
+söndürmek için algoritmanın gücü kesme olarak düzenlenmesi gerekiyor.
+
+Üçüncü Problem:
+ışıkların trafik ışığı şeklinde yanıp sönmesi gerekiyor.
+Kırmızı ışığın beş saniye, son iki saniye sarı ışık  ve yaya için olan yeşil ışık ile yanması gerekiyor.
+Yeşil ışık beş saniye, son iki saniye sarı ışık  ve yaya için olan kırmızı ışık ile yanması gerekiyor.
