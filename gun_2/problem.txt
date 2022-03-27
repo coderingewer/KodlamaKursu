@@ -12,4 +12,4 @@ söndürmek için algoritmanın gücü kesme olarak düzenlenmesi gerekiyor.
 Üçüncü Problem:
 ışıkların trafik ışığı şeklinde yanıp sönmesi gerekiyor.
 Kırmızı ışığın beş saniye, son iki saniye sarı ışık  ve yaya için olan yeşil ışık ile yanması gerekiyor.
-Yeşil ışık beş saniye, son iki saniye sarı ışık  ve yaya için olan kırmızı ışık ile yanması gerekiyor.
+Yeşil ışık beş saniye, son iki saniye sarı ışık  ve yaya için olan kırmızı ışık ile yanması gerekiyor.,pp0oç-

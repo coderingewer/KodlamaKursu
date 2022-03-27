@@ -1,0 +1,7 @@
+Üçüncü gün problemeleri;
+
+Birinci Problem:
+anahtarın yaktığı yeşil ledden gelen girdiye göre kırmızı ledi şart bloklarıyla yakmak.
+
+ikinci Problem:
+Araba tarifk ışığına göre şart bloklarıyla yaya ışıklarının yakmak.
